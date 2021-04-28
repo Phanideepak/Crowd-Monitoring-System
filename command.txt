@@ -1,0 +1,5 @@
+
+
+TO EXECUTE FOLLOW THIS
+
+python main.py --input VIDEO1.mp4 --output OUTPUT1.mp4
